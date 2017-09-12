@@ -1,0 +1,2 @@
+About 'pipe()' method:
+https://stackoverflow.com/questions/20085513/using-pipe-in-node-js-net
